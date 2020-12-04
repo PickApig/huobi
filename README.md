@@ -7,3 +7,4 @@ python setup.py
 ```
 2. open app.py in the EXPLORER
 3. Press "F5" to start debugging
+test
